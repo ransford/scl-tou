@@ -30,6 +30,7 @@ header {
 }
 header h1 { font-size: 1.2rem; font-weight: 700; letter-spacing: -0.01em; }
 header p  { font-size: 0.82rem; opacity: 0.8; margin-top: 2px; }
+header a  { color: #fff; }
 
 main {
   max-width: 1280px;
